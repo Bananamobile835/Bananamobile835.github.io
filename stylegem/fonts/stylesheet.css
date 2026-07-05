@@ -1,8 +1,5 @@
 @font-face {
     font-family: 'Comic Sans MS';
     src: url('stylegem/fonts/ComicSansMS.woff2') format('woff2'),
-        url('stylegem/fonts/ComicSansMS.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+        url('stylegem/fonts/ComicSansMS.woff') format('woff'),
 }
