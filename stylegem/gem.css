@@ -1,13 +1,9 @@
 @font-face {
   font-family: 'Comic Sans MS'; 
-  src: url('../fonts/Comic-Sans-MS.ttf') format('ttf');
+  src: url('../fonts/Comic Sans MS.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
   font-display: swap; 
-}
-
-h1 {
-    font-family: 'Comic Sans MS', sans-serif;
 }
 
 h1 {
