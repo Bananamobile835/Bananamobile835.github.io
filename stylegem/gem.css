@@ -6,7 +6,7 @@
   font-display: swap; 
 }
 
-body {
+h1 {
     font-family: 'Comic Sans MS', sans-serif;
 }
 
@@ -23,5 +23,5 @@ li {
 }
 
 html {
-  background-color: #234AFF;
+  background-color: #6C8FD1;
 }
